@@ -1,0 +1,13 @@
+# Secrets — contains live bot tokens / API keys, must never be committed
+apikeys.py
+.env
+
+# Python bytecode cache (can embed compiled copies of the above)
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Discloud
+discloud.config
