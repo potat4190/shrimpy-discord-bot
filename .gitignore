@@ -9,5 +9,13 @@ __pycache__/
 # Virtual environment
 venv/
 
+# Logs
+*.log
+
+# Local Lavalink node (if you run one next to the bot)
+Lavalink.jar
+application.yml
+plugins/
+
 # Discloud
 discloud.config
